@@ -27,7 +27,7 @@
 </p>
 
 <!-- Projects Section -->
-<h2 align="center">🌟 Projetos em Destaque</h2>
+<h2 align="center">🌟 Projetos em Andamento</h2>
 <div align="center">
   <table style="width:100%;">
     <tr>
