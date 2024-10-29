@@ -33,7 +33,7 @@
     <tr>
       <td align="center" width="33%">
         <a href="https://github.com/seu-usuario/seu-projeto-1">
-          <img src="/vibetrack.png" alt="App-Music | Vibe Track ⚒️" style="width:100%; border-radius:8px;"/>
+          <img src="/vivbetrack.png" alt="App-Music | Vibe Track ⚒️" style="width:100%; border-radius:8px;"/>
           <h3>App-Music | Vibe Track ⚒️</h3>
         </a>
       </td>
